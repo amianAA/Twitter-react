@@ -12,7 +12,7 @@ class App extends React.Component {
       user: {
         photoURL: 'https://abs.twimg.com/icons/apple-touch-icon-192x192.png',
         email: 'mail@mail.com',
-        onOpenText: 'false'
+        onOpenText: false
       }
     }
   }
